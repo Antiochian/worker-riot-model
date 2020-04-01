@@ -1,7 +1,7 @@
 # worker-riot-model
 A simple agent based model for worker rioting patterns based off perceived wage inequality and in-group effects
 
-This model comes with its own web server, so the model can be played with in-browser with parameter sliders and real-time graphing and metric capabilities.
+This model comes with its own web server, so the model can be played with in-browser with parameter sliders and real-time graphing and metric capabilities. Some metrics and graphing are explored at the bottom of this README.
 
 |Static demo|Animated demo of riot being quelled|
 |---|---
