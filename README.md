@@ -3,7 +3,9 @@ A simple agent based model for worker rioting patterns based off perceived wage 
 
 This model comes with its own web server, so the model can be played with in-browser with parameter sliders and real-time graphing and metric capabilities.
 
-![Demo Image](demo.png)
+|Static demo|Animated demo of riot being quelled|
+|---|---
+|![Demo Image](demo.png)|![Demo Gif](striking_demo.gif)
 
 The model is a refinement and improvement on the Epstein Model of civil unrest[1], and includes the effect of both real and perceived pay inequality into its calculations and incorporates the notion of more severe punishments for repeat offences.
 
